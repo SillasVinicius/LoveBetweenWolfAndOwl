@@ -3,7 +3,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 import EighthPage from './EighthPage';
 import FifthPage from './FifthPage';

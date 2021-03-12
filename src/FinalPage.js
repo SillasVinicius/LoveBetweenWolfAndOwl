@@ -2,13 +2,10 @@ import React, { useEffect } from 'react';
 import './reset.css';
 import './global.css';
 import { Link } from 'react-router-dom';
-import HomePage from './HomePage';
 
 import anime from "animejs";
 
 function FinalPage() {
-  
-  const animationRef = React.useRef(null);
 
   useEffect(()=> {
 

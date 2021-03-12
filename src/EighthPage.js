@@ -2,9 +2,7 @@ import React from 'react';
 import './reset.css';
 import './global.css';
 
-import FinalPage from './FinalPage';
 import { Link } from 'react-router-dom';
-import HomePage from './HomePage';
 
 function EighthPage() {
   return (

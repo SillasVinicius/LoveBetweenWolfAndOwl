@@ -1,9 +1,7 @@
 import React from 'react';
 import './reset.css';
 import './global.css';
-import EighthPage from './EighthPage';
 import { Link } from 'react-router-dom';
-import HomePage from './HomePage';
 
 function SeventhPage() {
   return (

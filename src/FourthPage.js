@@ -1,9 +1,7 @@
 import React from 'react';
 import './reset.css';
 import './global.css';
-import FifthPage from './FifthPage';
 import { Link } from 'react-router-dom';
-import HomePage from './HomePage';
 
 function FourthPage() {
   return (
